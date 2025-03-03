@@ -40,7 +40,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - Solution URL: [Clique Aqui](https://github.com/vinycxuz/SPA_example)
-- Live Site URL: [Clique Aqui](https://your-live-site-url.com)
+- Live Site URL: [Clique Aqui](https://vinycxuz.github.io/SPA_example/)
 
 ### Built with
 
