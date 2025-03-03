@@ -1,5 +1,9 @@
 ﻿# Single-page design portfolio (MOBILE ONLY)
 
+Esse exemplo de SPA é meu serviço de SPA mais barato disponível, ele tem apenas a versão mobile e leva apenas HTML e CSS basicamente, feito normalmente em apenas um dia. É amplamente utilizando quando o cliente quer apenas que tenha um link para o whatsapp para captar os leads através dos grupos. 
+
+Quando a base de dados é pequena, vale a pena porquê ele economiza e coloca eles dentro de uma comunidade no proprio WhatsApp. Por lá é mais simples.
+
 ## Table of contents
 
 - [Single-page design portfolio (MOBILE ONLY)](#single-page-design-portfolio-mobile-only)
@@ -8,7 +12,6 @@
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
 
 ## Overview
@@ -38,12 +41,6 @@ Os usuários devem ser capazes de:
 
 - Solution URL: [Clique Aqui](https://github.com/vinycxuz/SPA_example)
 - Live Site URL: [Clique Aqui](https://your-live-site-url.com)
-
-## My process
-
-Esse exemplo de SPA é meu serviço de SPA mais barato disponível, ele tem apenas a versão mobile e leva apenas HTML e CSS basicamente, feito normalmente em apenas um dia. É amplamente utilizando quando o cliente quer apenas que tenha um link para o whatsapp para captar os leads através dos grupos. 
-
-Quando a base de dados é pequena, vale a pena porquê ele economiza e coloca eles dentro de uma comunidade no proprio WhatsApp. Por lá é mais simples.
 
 ### Built with
 
