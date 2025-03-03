@@ -67,6 +67,15 @@ main p {
   margin: 0 1rem;
 }
 
+@media screen and (min-width: 769px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: none;
+  }
+}
+
 
 @media screen and (max-width: 768px) {
   :root {
